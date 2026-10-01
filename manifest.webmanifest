@@ -1,0 +1,26 @@
+{
+  "name": "Pró-Minas Estoque",
+  "short_name": "Pró-Minas",
+  "description": "Sistema interno Pró-Minas para informar falta de produtos.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101485",
+  "theme_color": "#101485",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+PRÓ-MINAS ESTOQUE — PWA PARA CELULAR
+
+Este pacote NÃO altera sua planilha nem as fórmulas.
+Ele cria uma página própria para o celular e carrega o formulário atual do Apps Script.
+
+LINK DO FORMULÁRIO USADO:
+https://script.google.com/macros/s/AKfycbynSGwQE4G6nqe4wEvM79-5UFJuw9dAiQIATAm5omK2PUXpdrP0P-mLKjEaCmRqlnSl/exec
+
+ARQUIVOS:
+- index.html
+- manifest.webmanifest
+- service-worker.js
+- icon-192.png
+- icon-512.png
+- apple-touch-icon.png
+
+PARA FUNCIONAR COMO APP/ATALHO COM ÍCONE:
+1. Hospede TODOS estes arquivos juntos em um serviço HTTPS.
+2. Abra o endereço hospedado no Chrome do celular.
+3. No menu do Chrome, use "Adicionar à tela inicial" ou "Instalar app".
+4. Se já existir um atalho antigo, apague-o antes de criar o novo.
+
+IMPORTANTE:
+- O endereço direto script.google.com continua sendo o backend/formulário.
+- O atalho deve ser criado usando o NOVO endereço hospedado desta PWA.
