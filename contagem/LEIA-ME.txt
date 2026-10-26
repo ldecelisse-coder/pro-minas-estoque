@@ -1,0 +1,7 @@
+PRÓ-MINAS — CONTAGEM DE ESTOQUE
+
+Abra /pro-minas-estoque/contagem/ no celular e escolha Adicionar à tela inicial ou Instalar aplicativo.
+O personagem da Pró-Minas com selo verde de conferência identifica a contagem.
+O formulário precisa de internet para consultar e salvar. Não há salvamento offline.
+Se o conteúdo incorporado não abrir, use Abrir contagem em outra aba.
+A planilha e o Apps Script existentes continuam responsáveis pelas contagens, recontagens e validações.
